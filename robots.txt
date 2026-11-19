@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yah-man420.github.io/japan-food-business-lab/sitemap.xml
